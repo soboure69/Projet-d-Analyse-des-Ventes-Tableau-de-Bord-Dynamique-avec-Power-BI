@@ -1,0 +1,2 @@
+# Projet-d-Analyse-des-Ventes-Tableau-de-Bord-Dynamique-avec-Power-BI
+Ce projet présente la création d'un tableau de bord complet et interactif avec Power BI, conçu pour analyser les performances d'une entreprise à travers trois axes principaux : les boutiques, les produits et les ventes. L'objectif est de transformer des données brutes en insights visuels et actionnables, permettant une prise de décision éclairée.
